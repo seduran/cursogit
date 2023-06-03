@@ -3,4 +3,6 @@ h1{
 }
 body{
     background-color: aqua;
+    color: brown;
+    font-weight: 600;
 }
